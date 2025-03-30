@@ -17,7 +17,7 @@ This lab demonstrates how to use the Mistral API to carry out NLP tasks. This la
 
 
 ### Part 2: Complete the Colab notebooak
-* Follow the instructions in the [Colab notebook for Lab 7](https://colab.research.google.com/drive/1lb0X15kmz1ZkT6gJ65o6Wmm6EdeSNynj?usp=sharing) to create your own copy of the notebook.
+* Follow the instructions in the [Colab notebook for Lab 8](https://colab.research.google.com/drive/1lb0X15kmz1ZkT6gJ65o6Wmm6EdeSNynj?usp=sharing) to create your own copy of the notebook.
 * Edit the Colab notebook to complete the various tasks, as indicated in the notebook. Most of the time this will involve writing code in a code cell, but sometimes you will answer questions in a text cell. It will always be clear what you have to do.
 
 ### Part 3: Submit your work
