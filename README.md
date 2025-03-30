@@ -2,7 +2,7 @@
 
 This lab demonstrates how to use the Mistral API to carry out NLP tasks. This lab is due Sunday, April 6, 11:59pm EDT.
 
-**Important Note: Please keep all of your output visible so that the TAs do not need to re-run your code and waste a lot of GPU time. As you've seen Google will cut off your GPU access if you use too much. The TAs need to be able to grade your code without running it.**
+**Important Note: Please keep all of your output visible so that the TAs do not need to re-run your code and use up their own access to Mistral. The TAs need to be able to grade your code without running it.**
 
 ### Overview 
 1. Clone the lab repo down to your own machine.
